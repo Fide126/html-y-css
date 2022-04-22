@@ -20,10 +20,10 @@
     color: blue;
 }
 
-.main-nav_item a:active{
+.main-nav_item a:active{ /* pseudo clases*/
     color:red;
 }
 
-.main-nav_item a::after{
+.main-nav_item a::after{ /* pseudo elementos*/
     content: " | ";
 }
