@@ -1,0 +1,24 @@
+/*
+h2 + p{
+    color: red;
+}
+CONVINADOR HERMANO ADYACENTE O CERCANO
+*/
+
+
+/*h2~p{ 
+    color: blue;
+}
+CONVINADOR HERMANO GENERAL CON SIGNO DE EQUIVALENCIA
+*/
+
+
+div > p{
+    color: blue;
+}/*
+convinador Hijo
+*/
+
+article h1{
+    color: yellow;
+}
