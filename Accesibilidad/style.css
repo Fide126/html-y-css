@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main{
+    margin: 15px 15px 5px 20px; /*top, bottom, derecha, izquierda*/
+}
+h1{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.8rem;
+}
+
+form{
+    font-size: 2rem;
+}
+
+img{
+    width: 350px;
+}
+
