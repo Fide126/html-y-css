@@ -1,3 +1,7 @@
+:root{
+    --mivariable: coral;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -12,7 +16,7 @@ html{
 header{
     height: 80px;
     width: 100vw;
-    background-color: coral;
+    background-color: var(--mivariable); /*se manda a llamar la variable*/
     display: inline-block;
 }
 

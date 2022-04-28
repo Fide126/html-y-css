@@ -1,0 +1,5 @@
+@media(min-width: 600px){ /*Contedor minimo 600 se autoajustan los contenedores*/
+    .c2, .c3, .c4{
+        width: 50%;
+    }
+}
